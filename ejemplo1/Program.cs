@@ -11,6 +11,7 @@ namespace ejemplo1
         /// <summary>
         /// Punto de entrada principal para la aplicación.
         /// </summary>
+        /// LE AGREGO UN COMENTARIO NOMAS PAL GITHUB
         [STAThread]
         static void Main()
         {
